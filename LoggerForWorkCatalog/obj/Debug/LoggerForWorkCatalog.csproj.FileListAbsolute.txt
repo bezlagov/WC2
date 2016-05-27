@@ -1,0 +1,14 @@
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\bin\Debug\LoggerForWorkCatalog.exe.config
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\bin\Debug\LoggerForWorkCatalog.exe
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\bin\Debug\LoggerForWorkCatalog.pdb
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog.csprojResolveAssemblyReference.cache
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\MainWindow.g.cs
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\App.g.cs
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog_MarkupCompile.cache
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog_MarkupCompile.lref
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\MainWindow.baml
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog.g.resources
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog.Properties.Resources.resources
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog.csproj.GenerateResource.Cache
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog.exe
+D:\Projects\WorkersCatalog\LoggerForWorkCatalog\obj\Debug\LoggerForWorkCatalog.pdb
